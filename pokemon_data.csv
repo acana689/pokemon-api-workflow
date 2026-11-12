@@ -1,0 +1,6 @@
+name,height_dm,weight_hg,types,height_m,weight_kg
+pikachu,4,60,electric,0.4,6.0
+bulbasaur,7,69,"grass, poison",0.7,6.9
+charmander,6,85,fire,0.6,8.5
+squirtle,5,90,water,0.5,9.0
+eevee,3,65,normal,0.3,6.5
